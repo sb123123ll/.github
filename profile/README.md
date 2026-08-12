@@ -199,7 +199,6 @@
 <br><br>
 
 <!-- ═══════════════════ ④ 技能 ═══════════════════ -->
-<!-- 编程语言 / 工具（动态优先） -->
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -211,22 +210,17 @@
       <br><sub style="color:#888;">Python</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kotlin-icon.svg" alt="Kotlin" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="55" height="55" />
       <br><sub style="color:#888;">Kotlin</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="55" height="55" />
       <br><sub style="color:#888;">C#</sub>
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
       <br><sub style="color:#888;">GitHub</sub>
     </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="55" height="55" />
       <br><sub style="color:#888;">Gradle</sub>
@@ -235,30 +229,8 @@
       <img src="https://skillicons.dev/icons?i=idea" alt="IDEA" width="55" height="55" />
       <br><sub style="color:#888;">IDEA</sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=steam" alt="Steam" width="55" height="55" />
-      <br><sub style="color:#888;">Steam</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" alt="CS2" width="55" height="55" />
-      <br><sub style="color:#888;">CS2</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=discord" alt="AstrBot" width="55" height="55" />
-      <br><sub style="color:#888;">AstrBot</sub>
-    </td>
   </tr>
 </table>
-
-<br>
-
-<!-- 平台标签 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Forge-1A2634?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NeoForge-F16436?style=for-the-badge" />
-</p>
 
 <br><br>
 
