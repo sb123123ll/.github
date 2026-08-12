@@ -38,7 +38,7 @@
   🔧  Forge / Fabric / NeoForge
   ☕  Java & Kotlin
   🎨  自定义实体 · 方块 · 物品
-  🌍  世界生成 & 结构系统
+  🌍  Everything
       </pre>
     </td>
     <td align="center">
@@ -48,7 +48,7 @@
   ⚡  Architectury 跨平台
   🖥️  IntelliJ IDEA
   📦  Gradle Build
-  🐍  Python 像素画
+  🐍  纹理
   🧪  多版本兼容 (1.12 ~ 1.21)
       </pre>
     </td>
@@ -98,7 +98,7 @@ qiamao@github:~$ ./status.sh
 </pre>
 
 <p align="center">
-  <samp style="color:#666;">「 用代码给方块世界带来无限可能 」</samp>
+  <samp style="color:#666;">「 用代码给我的世界带来无限可能！ 」</samp>
 </p>
 
 </div>
