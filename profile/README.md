@@ -40,62 +40,168 @@
 
 <br>
 
-<!-- 第一行 -->
+<!-- 第一行：bloodcraft + No-FireTick-Mod -->
 <table align="center">
   <tr>
     <td>
-      <pre style="color:#00f7ff; line-height:1.3;">
-╔══════════════════════════════════╗
-║  🩸 <a href="https://github.com/sb123123ll/bloodcraft">bloodcraft</a>               ║
-║                                  ║
-║  一个尚在开发的                   ║
-║  Minecraft 1.12.2 模组项目       ║
-║                                  ║
-║  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />  ⭐ 1  ║
-╚══════════════════════════════════╝
-      </pre>
+      <a href="https://github.com/sb123123ll/bloodcraft">
+        <svg width="370" height="130" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#00f7ff" stop-opacity="0.06"/>
+              <stop offset="100%" stop-color="#0066ff" stop-opacity="0.02"/>
+            </linearGradient>
+            <pattern id="grid1" width="16" height="16" patternUnits="userSpaceOnUse">
+              <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#00f7ff" stroke-width="0.3" stroke-opacity="0.08"/>
+            </pattern>
+          </defs>
+          <rect x="0" y="0" width="370" height="130" rx="5" fill="#0d1117"/>
+          <rect x="0" y="0" width="370" height="130" rx="5" fill="url(#grid1)"/>
+          <rect x="0" y="0" width="370" height="130" rx="5" fill="url(#bg1)"/>
+          <rect x="1" y="1" width="368" height="128" rx="4" fill="none" stroke="#00f7ff" stroke-width="1.2" stroke-opacity="0.6"/>
+          <rect x="5" y="5" width="360" height="120" rx="3" fill="none" stroke="#00f7ff" stroke-width="0.4" stroke-dasharray="3 6" stroke-opacity="0.25"/>
+          <!-- 左上角标 -->
+          <path d="M 2 20 L 2 2 L 20 2" fill="none" stroke="#00f7ff" stroke-width="1.8"/>
+          <path d="M 2 16 L 2 2 L 16 2" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.4"/>
+          <!-- 右下角标 -->
+          <path d="M 368 110 L 368 128 L 350 128" fill="none" stroke="#00f7ff" stroke-width="1.8"/>
+          <path d="M 368 114 L 368 128 L 354 128" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.4"/>
+          <!-- 标题分隔线 -->
+          <line x1="14" y1="34" x2="356" y2="34" stroke="#00f7ff" stroke-width="0.4" stroke-opacity="0.15"/>
+          <!-- 图标 + 名称 -->
+          <text x="16" y="27" font-family="Arial,sans-serif" font-size="15">🩸</text>
+          <text x="40" y="27" fill="#00f7ff" font-family="monospace" font-size="13" font-weight="bold">bloodcraft</text>
+          <!-- 星星 -->
+          <text x="356" y="27" fill="#e3b341" font-family="monospace" font-size="11" text-anchor="end">⭐ 1</text>
+          <!-- 描述 -->
+          <text x="16" y="52" fill="#8b949e" font-family="monospace" font-size="10.5">一个尚在开发的</text>
+          <text x="16" y="68" fill="#8b949e" font-family="monospace" font-size="10.5">Minecraft 1.12.2 模组项目</text>
+          <!-- 语言标签 -->
+          <rect x="14" y="99" width="46" height="17" rx="3" fill="#ED8B00" fill-opacity="0.15"/>
+          <rect x="14" y="99" width="46" height="17" rx="3" fill="none" stroke="#ED8B00" stroke-width="0.8" stroke-opacity="0.5"/>
+          <text x="37" y="111" fill="#ED8B00" font-family="monospace" font-size="10" text-anchor="middle">Java</text>
+          <!-- 右侧状态点 -->
+          <circle cx="358" cy="104" r="2" fill="#00f7ff" fill-opacity="0.5"/>
+          <circle cx="358" cy="114" r="1.3" fill="#00f7ff" fill-opacity="0.3"/>
+          <circle cx="358" cy="124" r="0.8" fill="#00f7ff" fill-opacity="0.15"/>
+        </svg>
+      </a>
     </td>
     <td>
-      <pre style="color:#00f7ff; line-height:1.3;">
-╔══════════════════════════════════╗
-║  🔥 <a href="https://github.com/sb123123ll/No-FireTick-Mod">No-FireTick-Mod</a>        ║
-║                                  ║
-║  A useful minecraft mod          ║
-║  禁止火焰蔓延的实用模组           ║
-║                                  ║
-║  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" />  ⭐ 1  ║
-╚══════════════════════════════════╝
-      </pre>
+      <a href="https://github.com/sb123123ll/No-FireTick-Mod">
+        <svg width="370" height="130" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#ff6ec7" stop-opacity="0.04"/>
+              <stop offset="100%" stop-color="#00f7ff" stop-opacity="0.02"/>
+            </linearGradient>
+            <pattern id="grid2" width="16" height="16" patternUnits="userSpaceOnUse">
+              <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#00f7ff" stroke-width="0.3" stroke-opacity="0.08"/>
+            </pattern>
+          </defs>
+          <rect x="0" y="0" width="370" height="130" rx="5" fill="#0d1117"/>
+          <rect x="0" y="0" width="370" height="130" rx="5" fill="url(#grid2)"/>
+          <rect x="0" y="0" width="370" height="130" rx="5" fill="url(#bg2)"/>
+          <rect x="1" y="1" width="368" height="128" rx="4" fill="none" stroke="#ff6ec7" stroke-width="1.2" stroke-opacity="0.5"/>
+          <rect x="5" y="5" width="360" height="120" rx="3" fill="none" stroke="#ff6ec7" stroke-width="0.4" stroke-dasharray="3 6" stroke-opacity="0.2"/>
+          <path d="M 2 20 L 2 2 L 20 2" fill="none" stroke="#ff6ec7" stroke-width="1.8"/>
+          <path d="M 2 16 L 2 2 L 16 2" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.4"/>
+          <path d="M 368 110 L 368 128 L 350 128" fill="none" stroke="#ff6ec7" stroke-width="1.8"/>
+          <path d="M 368 114 L 368 128 L 354 128" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.4"/>
+          <line x1="14" y1="34" x2="356" y2="34" stroke="#ff6ec7" stroke-width="0.4" stroke-opacity="0.15"/>
+          <text x="16" y="27" font-family="Arial,sans-serif" font-size="15">🔥</text>
+          <text x="40" y="27" fill="#ff6ec7" font-family="monospace" font-size="13" font-weight="bold">No-FireTick-Mod</text>
+          <text x="356" y="27" fill="#e3b341" font-family="monospace" font-size="11" text-anchor="end">⭐ 1</text>
+          <text x="16" y="52" fill="#8b949e" font-family="monospace" font-size="10.5">A useful minecraft mod</text>
+          <text x="16" y="68" fill="#8b949e" font-family="monospace" font-size="10.5">禁止火焰蔓延的实用模组</text>
+          <rect x="14" y="99" width="46" height="17" rx="3" fill="#ED8B00" fill-opacity="0.15"/>
+          <rect x="14" y="99" width="46" height="17" rx="3" fill="none" stroke="#ED8B00" stroke-width="0.8" stroke-opacity="0.5"/>
+          <text x="37" y="111" fill="#ED8B00" font-family="monospace" font-size="10" text-anchor="middle">Java</text>
+          <circle cx="358" cy="104" r="2" fill="#ff6ec7" fill-opacity="0.5"/>
+          <circle cx="358" cy="114" r="1.3" fill="#ff6ec7" fill-opacity="0.3"/>
+          <circle cx="358" cy="124" r="0.8" fill="#ff6ec7" fill-opacity="0.15"/>
+        </svg>
+      </a>
     </td>
   </tr>
 </table>
 
-<!-- 第二行 -->
+<br>
+
+<!-- 第二行：cs2-plugins + web_qiamao -->
 <table align="center">
   <tr>
     <td>
-      <pre style="color:#00f7ff; line-height:1.3;">
-╔══════════════════════════════════╗
-║  🔫 <a href="https://github.com/sb123123ll/cs2-plugins">cs2-plugins</a>               ║
-║                                  ║
-║  InventorySimulator 扩展插件     ║
-║  自定义暗金 / 计数器功能          ║
-║                                  ║
-║  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square" />  ⭐ 0  ║
-╚══════════════════════════════════╝
-      </pre>
+      <a href="https://github.com/sb123123ll/cs2-plugins">
+        <svg width="370" height="130" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#00ff88" stop-opacity="0.04"/>
+              <stop offset="100%" stop-color="#00cc66" stop-opacity="0.01"/>
+            </linearGradient>
+            <pattern id="grid3" width="16" height="16" patternUnits="userSpaceOnUse">
+              <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#00ff88" stroke-width="0.3" stroke-opacity="0.08"/>
+            </pattern>
+          </defs>
+          <rect x="0" y="0" width="370" height="130" rx="5" fill="#0d1117"/>
+          <rect x="0" y="0" width="370" height="130" rx="5" fill="url(#grid3)"/>
+          <rect x="0" y="0" width="370" height="130" rx="5" fill="url(#bg3)"/>
+          <rect x="1" y="1" width="368" height="128" rx="4" fill="none" stroke="#00ff88" stroke-width="1.2" stroke-opacity="0.5"/>
+          <rect x="5" y="5" width="360" height="120" rx="3" fill="none" stroke="#00ff88" stroke-width="0.4" stroke-dasharray="3 6" stroke-opacity="0.2"/>
+          <path d="M 2 20 L 2 2 L 20 2" fill="none" stroke="#00ff88" stroke-width="1.8"/>
+          <path d="M 2 16 L 2 2 L 16 2" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.4"/>
+          <path d="M 368 110 L 368 128 L 350 128" fill="none" stroke="#00ff88" stroke-width="1.8"/>
+          <path d="M 368 114 L 368 128 L 354 128" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.4"/>
+          <line x1="14" y1="34" x2="356" y2="34" stroke="#00ff88" stroke-width="0.4" stroke-opacity="0.15"/>
+          <text x="16" y="27" font-family="Arial,sans-serif" font-size="15">🔫</text>
+          <text x="40" y="27" fill="#00ff88" font-family="monospace" font-size="13" font-weight="bold">cs2-plugins</text>
+          <text x="356" y="27" fill="#e3b341" font-family="monospace" font-size="11" text-anchor="end">⭐ 0</text>
+          <text x="16" y="52" fill="#8b949e" font-family="monospace" font-size="10.5">InventorySimulator 扩展</text>
+          <text x="16" y="68" fill="#8b949e" font-family="monospace" font-size="10.5">自定义暗金 / 计数器功能</text>
+          <rect x="14" y="99" width="36" height="17" rx="3" fill="#239120" fill-opacity="0.15"/>
+          <rect x="14" y="99" width="36" height="17" rx="3" fill="none" stroke="#239120" stroke-width="0.8" stroke-opacity="0.5"/>
+          <text x="32" y="111" fill="#239120" font-family="monospace" font-size="10" text-anchor="middle">C#</text>
+          <circle cx="358" cy="104" r="2" fill="#00ff88" fill-opacity="0.5"/>
+          <circle cx="358" cy="114" r="1.3" fill="#00ff88" fill-opacity="0.3"/>
+          <circle cx="358" cy="124" r="0.8" fill="#00ff88" fill-opacity="0.15"/>
+        </svg>
+      </a>
     </td>
     <td>
-      <pre style="color:#00f7ff; line-height:1.3;">
-╔══════════════════════════════════╗
-║  🌐 <a href="https://github.com/sb123123ll/web_qiamao">web_qiamao</a>                ║
-║                                  ║
-║  个人网页项目                     ║
-║                                  ║
-║                                  ║
-║  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" />  ⭐ 0  ║
-╚══════════════════════════════════╝
-      </pre>
+      <a href="https://github.com/sb123123ll/web_qiamao">
+        <svg width="370" height="130" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#ffaa00" stop-opacity="0.04"/>
+              <stop offset="100%" stop-color="#ff6600" stop-opacity="0.01"/>
+            </linearGradient>
+            <pattern id="grid4" width="16" height="16" patternUnits="userSpaceOnUse">
+              <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#ffaa00" stroke-width="0.3" stroke-opacity="0.08"/>
+            </pattern>
+          </defs>
+          <rect x="0" y="0" width="370" height="130" rx="5" fill="#0d1117"/>
+          <rect x="0" y="0" width="370" height="130" rx="5" fill="url(#grid4)"/>
+          <rect x="0" y="0" width="370" height="130" rx="5" fill="url(#bg4)"/>
+          <rect x="1" y="1" width="368" height="128" rx="4" fill="none" stroke="#ffaa00" stroke-width="1.2" stroke-opacity="0.5"/>
+          <rect x="5" y="5" width="360" height="120" rx="3" fill="none" stroke="#ffaa00" stroke-width="0.4" stroke-dasharray="3 6" stroke-opacity="0.2"/>
+          <path d="M 2 20 L 2 2 L 20 2" fill="none" stroke="#ffaa00" stroke-width="1.8"/>
+          <path d="M 2 16 L 2 2 L 16 2" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.4"/>
+          <path d="M 368 110 L 368 128 L 350 128" fill="none" stroke="#ffaa00" stroke-width="1.8"/>
+          <path d="M 368 114 L 368 128 L 354 128" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.4"/>
+          <line x1="14" y1="34" x2="356" y2="34" stroke="#ffaa00" stroke-width="0.4" stroke-opacity="0.15"/>
+          <text x="16" y="27" font-family="Arial,sans-serif" font-size="15">🌐</text>
+          <text x="40" y="27" fill="#ffaa00" font-family="monospace" font-size="13" font-weight="bold">web_qiamao</text>
+          <text x="356" y="27" fill="#e3b341" font-family="monospace" font-size="11" text-anchor="end">⭐ 0</text>
+          <text x="16" y="52" fill="#8b949e" font-family="monospace" font-size="10.5">Qiamao 个人网页项目</text>
+          <text x="16" y="68" fill="#8b949e" font-family="monospace" font-size="10.5">前端练习 &amp; 个人展示</text>
+          <rect x="14" y="99" width="46" height="17" rx="3" fill="#E34F26" fill-opacity="0.15"/>
+          <rect x="14" y="99" width="46" height="17" rx="3" fill="none" stroke="#E34F26" stroke-width="0.8" stroke-opacity="0.5"/>
+          <text x="37" y="111" fill="#E34F26" font-family="monospace" font-size="10" text-anchor="middle">HTML</text>
+          <circle cx="358" cy="104" r="2" fill="#ffaa00" fill-opacity="0.5"/>
+          <circle cx="358" cy="114" r="1.3" fill="#ffaa00" fill-opacity="0.3"/>
+          <circle cx="358" cy="124" r="0.8" fill="#ffaa00" fill-opacity="0.15"/>
+        </svg>
+      </a>
     </td>
   </tr>
 </table>
@@ -103,7 +209,6 @@
 <br><br>
 
 <!-- ═══════════════════ ④ 技能 ═══════════════════ -->
-<!-- 动画图标 -->
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -135,7 +240,6 @@
 
 <br>
 
-<!-- 平台标签 -->
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Forge-1A2634?style=for-the-badge" />
