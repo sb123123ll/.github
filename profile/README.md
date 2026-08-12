@@ -229,6 +229,10 @@
       <img src="https://skillicons.dev/icons?i=idea" alt="IDEA" width="55" height="55" />
       <br><sub style="color:#888;">IDEA</sub>
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="55" height="55" />
+      <br><sub style="color:#888;">VSCode</sub>
+    </td>
   </tr>
 </table>
 
