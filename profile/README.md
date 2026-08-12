@@ -74,20 +74,45 @@
 
 <br><br>
 
-<!-- ═══════════════════ ④ 技能标签 ═══════════════════ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-</p>
+<!-- ═══════════════════ ④ 技能 ═══════════════════ -->
+<!-- 动画图标 -->
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+      <br><sub style="color:#888;">Java</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+      <br><sub style="color:#888;">Python</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="55" height="55" />
+      <br><sub style="color:#888;">Kotlin</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="55" height="55" />
+      <br><sub style="color:#888;">C#</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="55" height="55" />
+      <br><sub style="color:#888;">Gradle</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" alt="IDEA" width="55" height="55" />
+      <br><sub style="color:#888;">IDEA</sub>
+    </td>
+  </tr>
+</table>
 
+<br>
+
+<!-- 平台标签（纯色，无 logo 防裂图） -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=mojang&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forge-1A2634?style=for-the-badge&logo=curseforge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge&logo=fabric&logoColor=black" />
-  <img src="https://img.shields.io/badge/NeoForge-F16436?style=for-the-badge&logo=neoforge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Forge-1A2634?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NeoForge-F16436?style=for-the-badge" />
 </p>
 
 <br><br>
