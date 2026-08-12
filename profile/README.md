@@ -40,7 +40,6 @@
 
 <br>
 
-<!-- 第一行：bloodcraft + No-FireTick-Mod -->
 <table align="center">
   <tr>
     <td>
@@ -60,27 +59,19 @@
           <rect x="0" y="0" width="370" height="130" rx="5" fill="url(#bg1)"/>
           <rect x="1" y="1" width="368" height="128" rx="4" fill="none" stroke="#00f7ff" stroke-width="1.2" stroke-opacity="0.6"/>
           <rect x="5" y="5" width="360" height="120" rx="3" fill="none" stroke="#00f7ff" stroke-width="0.4" stroke-dasharray="3 6" stroke-opacity="0.25"/>
-          <!-- 左上角标 -->
           <path d="M 2 20 L 2 2 L 20 2" fill="none" stroke="#00f7ff" stroke-width="1.8"/>
           <path d="M 2 16 L 2 2 L 16 2" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.4"/>
-          <!-- 右下角标 -->
           <path d="M 368 110 L 368 128 L 350 128" fill="none" stroke="#00f7ff" stroke-width="1.8"/>
           <path d="M 368 114 L 368 128 L 354 128" fill="none" stroke="#fff" stroke-width="0.6" stroke-opacity="0.4"/>
-          <!-- 标题分隔线 -->
           <line x1="14" y1="34" x2="356" y2="34" stroke="#00f7ff" stroke-width="0.4" stroke-opacity="0.15"/>
-          <!-- 图标 + 名称 -->
           <text x="16" y="27" font-family="Arial,sans-serif" font-size="15">🩸</text>
           <text x="40" y="27" fill="#00f7ff" font-family="monospace" font-size="13" font-weight="bold">bloodcraft</text>
-          <!-- 星星 -->
           <text x="356" y="27" fill="#e3b341" font-family="monospace" font-size="11" text-anchor="end">⭐ 1</text>
-          <!-- 描述 -->
           <text x="16" y="52" fill="#8b949e" font-family="monospace" font-size="10.5">一个尚在开发的</text>
           <text x="16" y="68" fill="#8b949e" font-family="monospace" font-size="10.5">Minecraft 1.12.2 模组项目</text>
-          <!-- 语言标签 -->
           <rect x="14" y="99" width="46" height="17" rx="3" fill="#ED8B00" fill-opacity="0.15"/>
           <rect x="14" y="99" width="46" height="17" rx="3" fill="none" stroke="#ED8B00" stroke-width="0.8" stroke-opacity="0.5"/>
           <text x="37" y="111" fill="#ED8B00" font-family="monospace" font-size="10" text-anchor="middle">Java</text>
-          <!-- 右侧状态点 -->
           <circle cx="358" cy="104" r="2" fill="#00f7ff" fill-opacity="0.5"/>
           <circle cx="358" cy="114" r="1.3" fill="#00f7ff" fill-opacity="0.3"/>
           <circle cx="358" cy="124" r="0.8" fill="#00f7ff" fill-opacity="0.15"/>
@@ -96,7 +87,7 @@
               <stop offset="100%" stop-color="#00f7ff" stop-opacity="0.02"/>
             </linearGradient>
             <pattern id="grid2" width="16" height="16" patternUnits="userSpaceOnUse">
-              <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#00f7ff" stroke-width="0.3" stroke-opacity="0.08"/>
+              <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#ff6ec7" stroke-width="0.3" stroke-opacity="0.08"/>
             </pattern>
           </defs>
           <rect x="0" y="0" width="370" height="130" rx="5" fill="#0d1117"/>
@@ -128,7 +119,6 @@
 
 <br>
 
-<!-- 第二行：cs2-plugins + web_qiamao -->
 <table align="center">
   <tr>
     <td>
@@ -209,6 +199,7 @@
 <br><br>
 
 <!-- ═══════════════════ ④ 技能 ═══════════════════ -->
+<!-- 编程语言 / 工具（动态优先） -->
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -220,13 +211,22 @@
       <br><sub style="color:#888;">Python</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/kotlin-icon.svg" alt="Kotlin" width="55" height="55" />
       <br><sub style="color:#888;">Kotlin</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="55" height="55" />
       <br><sub style="color:#888;">C#</sub>
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+      <br><sub style="color:#888;">GitHub</sub>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="55" height="55" />
       <br><sub style="color:#888;">Gradle</sub>
@@ -235,11 +235,24 @@
       <img src="https://skillicons.dev/icons?i=idea" alt="IDEA" width="55" height="55" />
       <br><sub style="color:#888;">IDEA</sub>
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=steam" alt="Steam" width="55" height="55" />
+      <br><sub style="color:#888;">Steam</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" alt="CS2" width="55" height="55" />
+      <br><sub style="color:#888;">CS2</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=discord" alt="AstrBot" width="55" height="55" />
+      <br><sub style="color:#888;">AstrBot</sub>
+    </td>
   </tr>
 </table>
 
 <br>
 
+<!-- 平台标签 -->
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Forge-1A2634?style=for-the-badge" />
