@@ -11,22 +11,34 @@
 </p>
 
 <!-- ═══════════════════ ② 终端式个人简介 ═══════════════════ -->
-<div align="left" style="max-width: 750px; margin: 0 auto; background-color: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d;">
-
-```json
-{
-  "name": "QIAMAO (sb123123ll)",
-  "title": "Senior Mod Developer",
-  "focus": [
-    "Minecraft Modding (1.12.2 / 1.20+ / 1.21+)",
-    "Cross-Platform Architecture (Architectury)",
-    "Performance Optimization & Multithreading",
-    "ASM & Mixin Bytecode Manipulation"
+<div align="center">
+<table width="750" style="background-color: #0d1117; border-collapse: collapse; border: 1px solid #30363d; border-radius: 10px;">
+  <tr>
+    <td style="padding: 10px; background-color: #161b22; border-bottom: 1px solid #30363d; border-top-left-radius: 10px; border-top-right-radius: 10px;" align="left">
+      &nbsp;<span style="display:inline-block; width:12px; height:12px; background-color:#ff5f56; border-radius:50%;"></span>
+      &nbsp;<span style="display:inline-block; width:12px; height:12px; background-color:#ffbd2e; border-radius:50%;"></span>
+      &nbsp;<span style="display:inline-block; width:12px; height:12px; background-color:#27c93f; border-radius:50%;"></span>
+      &nbsp;<code style="background: none; color: #8b949e; font-size: 13px; font-family: monospace;">~/qiamao/developer_profile.json</code>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 20px;" align="left">
+      <pre style="background-color: transparent; border: none; margin: 0; padding: 0; color: #c9d1d9; font-size: 14.5px; font-family: Consolas, 'Courier New', monospace; line-height: 1.5;">
+<span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">developer</span> <span style="color: #ff7b72;">=</span> {
+  <span style="color: #7ee787;">"name"</span>: <span style="color: #a5d6ff;">"QIAMAO (sb123123ll)"</span>,
+  <span style="color: #7ee787;">"title"</span>: <span style="color: #a5d6ff;">"Senior Mod Developer"</span>,
+  <span style="color: #7ee787;">"focus"</span>: [
+    <span style="color: #a5d6ff;">"Minecraft Modding (1.12.2 / 1.20+ / 1.21+)"</span>,
+    <span style="color: #a5d6ff;">"Cross-Platform Architecture (Architectury)"</span>,
+    <span style="color: #a5d6ff;">"Performance Optimization & Multithreading"</span>,
+    <span style="color: #a5d6ff;">"ASM & Mixin Bytecode Manipulation"</span>
   ],
-  "design_patterns": ["SOLID", "SRP", "OCP", "DIP"],
-  "current_status": "Refactoring the blocky world with code..."
-}
-```
+  <span style="color: #7ee787;">"design_patterns"</span>: [<span style="color: #a5d6ff;">"SOLID"</span>, <span style="color: #a5d6ff;">"SRP"</span>, <span style="color: #a5d6ff;">"OCP"</span>, <span style="color: #a5d6ff;">"DIP"</span>],
+  <span style="color: #7ee787;">"current_status"</span>: <span style="color: #a5d6ff;">"Refactoring the blocky world with code..."</span>
+};</pre>
+    </td>
+  </tr>
+</table>
 </div>
 <br>
 
